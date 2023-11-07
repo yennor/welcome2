@@ -21,7 +21,7 @@
  *
  */
 
-namespace OCA\Welcome\Dashboard;
+namespace OCA\Welcome2\Dashboard;
 
 use OCP\Dashboard\IWidget;
 use OCP\IConfig;
@@ -29,9 +29,9 @@ use OCP\IL10N;
 use OCP\IURLGenerator;
 use OCP\Util;
 
-use OCA\Welcome\AppInfo\Application;
+use OCA\Welcome2\AppInfo\Application;
 
-class WelcomeWidget implements IWidget {
+class Welcome2Widget implements IWidget {
 
 	public function __construct(private IL10N $l10n,
 								private IURLGenerator $url,
@@ -42,15 +42,15 @@ class WelcomeWidget implements IWidget {
 	 * @inheritDoc
 	 */
 	public function getId(): string {
-		return 'welcome';
+		return 'welcome2';
 	}
 
 	/**
 	 * @inheritDoc
 	 */
 	public function getTitle(): string {
-		$widgetTitle = $this->config->getAppValue(Application::APP_ID, 'widgetTitle', $this->l10n->t('Welcome'));
-		return $widgetTitle ?: $this->l10n->t('Welcome');
+		$widgetTitle = $this->config->getAppValue(Application::APP_ID, 'widgetTitle', $this->l10n->t('Welcome2'));
+		return $widgetTitle ?: $this->l10n->t('Welcome2');
 	}
 
 	/**
@@ -64,7 +64,7 @@ class WelcomeWidget implements IWidget {
 	 * @inheritDoc
 	 */
 	public function getIconClass(): string {
-		return 'icon-welcome';
+		return 'icon-welcome2';
 	}
 
 	/**

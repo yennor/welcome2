@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <info>
-	<id>welcome</id>
-	<name>Welcome</name>
-	<summary>Dashboard widget to display welcome content</summary>
-	<description><![CDATA[
+    <id>welcome2</id>
+    <name>Welcome2</name>
+    <summary>Dashboard widget to display welcome content</summary>
+    <description><![CDATA[
 ℹ A Markdown rendering Dashboard widget to welcome all users.
 
-⚙ Configure via `Settings > Administration > Theming > Welcome widget`
+⚙ Configure via `Settings > Administration > Theming > Welcome2 widget`
 
 📄 Pick a Markdown document to be rendered in the widget
 
@@ -21,7 +21,7 @@
 	<version>1.0.10</version>
 	<licence>agpl</licence>
 	<author>Julien Veyssier</author>
-	<namespace>Welcome</namespace>
+	<namespace>Welcome2</namespace>
 	<documentation>
 		<developer>https://github.com/nextcloud/welcome</developer>
 	</documentation>
@@ -34,6 +34,6 @@
 		<nextcloud min-version="26" max-version="28"/>
 	</dependencies>
 	<settings>
-		<admin>OCA\Welcome\Settings\Admin</admin>
+		<admin>OCA\Welcome2\Settings\Admin</admin>
 	</settings>
 </info>

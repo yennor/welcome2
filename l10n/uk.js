@@ -1,5 +1,5 @@
 OC.L10N.register(
-    "welcome",
+    "welcome2",
     {
     "Welcome" : "Привітання",
     "Dashboard widget to display welcome content" : "Віджет інформаційної панелі для відображення вітального вмісту",

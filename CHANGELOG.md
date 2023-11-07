@@ -28,7 +28,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 1.0.6 – 2022-12-28
 ### Fixed
-- Use a Welcome endpoint to get images from file ID. Images are only returned if they are in the markdown file's attachment folder
+- Use a Welcome2 endpoint to get images from file ID. Images are only returned if they are in the markdown file's attachment folder
 - bug when decoded and encoded image path (in image link) are different
 
 ## 1.0.4 – 2022-12-25

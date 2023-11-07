@@ -1,7 +1,7 @@
 OC.L10N.register(
-    "welcome",
+    "welcome2",
     {
-    "Welcome" : "欢迎",
+    "Welcome2" : "欢迎",
     "No recommendations. Start typing." : "无建议。开始输入。",
     "No result." : "无结果",
     "Talk to your support contact ({name})" : "和您的支持联系人({name})对话",

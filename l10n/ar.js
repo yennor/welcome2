@@ -1,5 +1,5 @@
 OC.L10N.register(
-    "welcome",
+    "welcome2",
     {
     "Welcome" : "مرحباً",
     "Dashboard widget to display welcome content" : "ودجة لوحة قيادة dashboard widget لعرض الترحيب",
