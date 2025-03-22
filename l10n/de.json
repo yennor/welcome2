@@ -12,7 +12,6 @@
     "Support text" : "Support-Text",
     "Example: Call {name} to get help." : "Beispiel: Rufe {name} an, um Hilfe zu erhalten.",
     "{name} will be replaced by the support user name" : "{name} wird durch den Support-Benutzernamen ersetzt",
-<<<<<<< HEAD
     "Enable the widget for all users" : "Widget für alle Benutzer aktivieren",
     "Welcome admin options saved" : "Willkommens-Admin-Optionen gespeichert",
     "Failed to save welcome admin options" : "Willkommens-Admin-Optionen konnten nicht gespeichert werden",
@@ -21,12 +20,6 @@
     "The Welcome widget is now enabled for all active users" : "Das Willkommens-Widget wurde für alle Benutzer aktiviert",
     "Failed to enable the Welcome widget" : "Fehler beim Aktivieren des Willkommens-Widgets",
     "No welcome content" : "Kein Willkommensinhalt",
-=======
-    "Welcome2 admin options saved" : "Willkommens-Admin-Optionen gespeichert",
-    "Failed to save welcome2 admin options" : "Willkommens-Admin-Optionen konnten nicht gespeichert werden",
-    "Choose markdown welcome2 content file" : "Markdown-Datei für Willkommensinhalt auswählen",
-    "No welcome2 content" : "Kein Willkommensinhalt",
->>>>>>> v1.0.8-2
     "Talk to your support contact ({name})" : "Spreche mit deinem Support-Kontakt ({name})",
     "Talk to {name}" : "Spreche mit {name}"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"

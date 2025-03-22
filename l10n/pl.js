@@ -14,18 +14,11 @@ OC.L10N.register(
     "Support text" : "Tekst pomocy technicznej",
     "Example: Call {name} to get help." : "Przykład: Zadzwoń do {name}, aby uzyskać pomoc techniczną.",
     "{name} will be replaced by the support user name" : "{name} zostanie zastąpiony nazwą użytkownika pomocy technicznej",
-<<<<<<< HEAD
     "Welcome admin options saved" : "Zapisano opcje powitania administratora",
     "Failed to save welcome admin options" : "Nie udało się zapisać opcji powitania administratora",
     "Choose markdown welcome content file" : "Wybierz plik powitalny Markdown",
     "Choose" : "Wybierz",
     "No welcome content" : "Brak treści powitalnej",
-=======
-    "Welcome2 admin options saved" : "Zapisano opcje powitania administratora",
-    "Failed to save welcome2 admin options" : "Nie udało się zapisać opcji powitania administratora",
-    "Choose markdown welcome2 content file" : "Wybierz plik powitalny Markdown",
-    "No welcome2 content" : "Brak treści powitalnej",
->>>>>>> v1.0.8-2
     "Talk to your support contact ({name})" : "Porozmawiaj z osobą z pomocy technicznej ({name})",
     "Talk to {name}" : "Porozmawiaj z {name}"
 },

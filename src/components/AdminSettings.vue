@@ -137,7 +137,7 @@ export default {
 	name: 'AdminSettings',
 
 	components: {
-		WelcomeIcon,
+		Welcome2Icon,
 		NcSelect,
 		NcButton,
 		NcAvatar,

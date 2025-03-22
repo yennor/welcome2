@@ -14,18 +14,11 @@ OC.L10N.register(
     "Support text" : "متن پشتیبانی",
     "Example: Call {name} to get help." : "به عنوان نمونه: جهت دریافت راهنمایی با {name} تماس بگیرید.",
     "{name} will be replaced by the support user name" : "{name} با نام کاربری کاربر پشتیبان شما جایگزین خواهد شد.",
-<<<<<<< HEAD
     "Welcome admin options saved" : "گزینه‌های خوش‌امد‌گویی مدیر ذخیره شد",
     "Failed to save welcome admin options" : "مشکل در ذخیره گزینه‌های خوش‌آمدگویی مدیر",
     "Choose markdown welcome content file" : "پرونده مارک‌داون محتوای خوش‌آمدگیی را انتخاب کنید",
     "Choose" : "انتخاب کنید",
     "No welcome content" : "هیچ محتوای خوش‌آمدگویی وجود ندارد",
-=======
-    "Welcome2 admin options saved" : "گزینه‌های خوش‌امد‌گویی مدیر ذخیره شد",
-    "Failed to save welcome2 admin options" : "مشکل در ذخیره گزینه‌های خوش‌آمدگویی مدیر",
-    "Choose markdown welcome2 content file" : "پرونده مارک‌داون محتوای خوش‌آمدگیی را انتخاب کنید",
-    "No welcome2 content" : "هیچ محتوای خوش‌آمدگویی وجود ندارد",
->>>>>>> v1.0.8-2
     "Talk to your support contact ({name})" : "گفت‌و‌گو با مخاطب پشتیبان ({name})",
     "Talk to {name}" : "گفت‌و‌گو با {name}"
 },
