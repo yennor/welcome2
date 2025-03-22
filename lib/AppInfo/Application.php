@@ -9,7 +9,7 @@
 
 namespace OCA\Welcome2\AppInfo;
 
-use OCA\Welcome2\Dashboard\WelcomeWidget;
+use OCA\Welcome2\Dashboard\Welcome2Widget;
 use OCA\Welcome2\Listener\CSPListener;
 use OCP\AppFramework\App;
 use OCP\AppFramework\Bootstrap\IBootContext;

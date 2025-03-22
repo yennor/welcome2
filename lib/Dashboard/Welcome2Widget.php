@@ -30,7 +30,7 @@ use OCP\IL10N;
 use OCP\IURLGenerator;
 use OCP\Util;
 
-class WelcomeWidget implements IWidget {
+class Welcome2Widget implements IWidget {
 
 	public function __construct(private IL10N $l10n,
 		private IURLGenerator $url,
