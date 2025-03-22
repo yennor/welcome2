@@ -1,8 +1,8 @@
-# Nextcloud welcome widget
+# Nextcloud welcome2 widget
 
-ℹ A Markdown rendering Dashboard widget to welcome all users.
+ℹ A Markdown rendering Dashboard widget to welcome2 all users.
 
-⚙ Configure via `Settings > Administration > Theming > Welcome widget`
+⚙ Configure via `Settings > Administration > Theming > Welcome2 widget`
 
 📄 Pick a Markdown document to be rendered in the widget
 
@@ -16,10 +16,10 @@
 
 ### Dashboard layout
 
-Once the app is installed, if you want the Welcome widget to be displayed by default on new users dashboard, change the default dashboard layout:
+Once the app is installed, if you want the Welcome2 widget to be displayed by default on new users dashboard, change the default dashboard layout:
 
 ```
-occ config:app:set dashboard layout --value=welcome,recommendations,spreed,mail,calendar
+occ config:app:set dashboard layout --value=welcome2,recommendations,spreed,mail,calendar
 ```
 
 ### Screenshot

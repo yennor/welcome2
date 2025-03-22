@@ -1,5 +1,5 @@
 OC.L10N.register(
-    "welcome",
+    "welcome2",
     {
     "Welcome" : "Добро дошли",
     "Dashboard widget to display welcome content" : "Виџет контролне табле који приказује садржај добродошлице",

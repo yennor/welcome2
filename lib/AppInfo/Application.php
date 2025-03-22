@@ -1,16 +1,16 @@
 <?php
 /**
- * Nextcloud - Welcome
+ * Nextcloud - Welcome2
  *
  *
  * @author Julien Veyssier <julien-nc@posteo.net>
  * @copyright Julien Veyssier 2021
  */
 
-namespace OCA\Welcome\AppInfo;
+namespace OCA\Welcome2\AppInfo;
 
-use OCA\Welcome\Dashboard\WelcomeWidget;
-use OCA\Welcome\Listener\CSPListener;
+use OCA\Welcome2\Dashboard\WelcomeWidget;
+use OCA\Welcome2\Listener\CSPListener;
 use OCP\AppFramework\App;
 use OCP\AppFramework\Bootstrap\IBootContext;
 use OCP\AppFramework\Bootstrap\IBootstrap;
@@ -19,7 +19,7 @@ use OCP\IConfig;
 use OCP\Security\CSP\AddContentSecurityPolicyEvent;
 
 class Application extends App implements IBootstrap {
-	public const APP_ID = 'welcome';
+	public const APP_ID = 'welcome2';
 	private IConfig $config;
 
 	public function __construct(array $urlParams = []) {
@@ -32,7 +32,7 @@ class Application extends App implements IBootstrap {
 	public function register(IRegistrationContext $context): void {
 		$filePath = $this->config->getAppValue(self::APP_ID, 'filePath', '');
 		if ($filePath) {
-			$context->registerDashboardWidget(WelcomeWidget::class);
+			$context->registerDashboardWidget(Welcome2Widget::class);
 			$context->registerEventListener(AddContentSecurityPolicyEvent::class, CSPListener::class);
 		}
 	}

@@ -1,8 +1,7 @@
 <?php
+namespace OCA\Welcome2\Settings;
 
-namespace OCA\Welcome\Settings;
-
-use OCA\Welcome\AppInfo\Application;
+use OCA\Welcome2\AppInfo\Application;
 use OCP\AppFramework\Http\TemplateResponse;
 use OCP\AppFramework\Services\IInitialState;
 use OCP\IConfig;

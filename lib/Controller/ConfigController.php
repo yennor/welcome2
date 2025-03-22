@@ -1,6 +1,6 @@
 <?php
 /**
- * Nextcloud - welcome
+ * Nextcloud - welcome2
  *
  * This file is licensed under the Affero General Public License version 3 or
  * later. See the COPYING file.
@@ -9,11 +9,11 @@
  * @copyright Julien Veyssier 2020
  */
 
-namespace OCA\Welcome\Controller;
+namespace OCA\Welcome2\Controller;
 
 use OC\User\NoUserException;
-use OCA\Welcome\AppInfo\Application;
-use OCA\Welcome\Service\FileService;
+use OCA\Welcome2\AppInfo\Application;
+use OCA\Welcome2\Service\FileService;
 use OCP\AppFramework\Controller;
 use OCP\AppFramework\Http;
 use OCP\AppFramework\Http\DataDisplayResponse;

@@ -1,5 +1,5 @@
 OC.L10N.register(
-    "welcome",
+    "welcome2",
     {
     "Welcome" : "환영합니다.",
     "No file" : "파일 없음",

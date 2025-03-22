@@ -1,7 +1,7 @@
 /* jshint esversion: 6 */
 
 /**
- * Nextcloud - welcome
+ * Nextcloud - welcome2
  *
  *
  * This file is licensed under the Affero General Public License version 3 or
@@ -21,4 +21,4 @@ __webpack_nonce__ = btoa(getRequestToken()) // eslint-disable-line
 __webpack_public_path__ = linkTo('welcome', 'js/') // eslint-disable-line
 
 const View = Vue.extend(AdminSettings)
-new View().$mount('#welcome_prefs')
+new View().$mount('#welcome2_prefs')

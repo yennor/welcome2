@@ -1,11 +1,11 @@
 OC.L10N.register(
-    "welcome",
+    "welcome2",
     {
-    "Welcome" : "Vítejte",
-    "Dashboard widget to display welcome content" : "Ovládací prvek na nástěnku pro zobrazování uvítacího obsahu",
-    "ℹ A Markdown rendering Dashboard widget to welcome all users.\n\n⚙ Configure via `Settings > Administration > Theming > Welcome widget`\n\n📄 Pick a Markdown document to be rendered in the widget\n\n💡 If no document is chosen, the widget won't be shown\n\n📝 Edit the Markdown document to update the widget in real-time\n\n🖼 Images are also supported\n\n💬 Configure a contact person to directly start a chat with (requires [Nextcloud Talk](https://apps.nextcloud.com/apps/spreed) to be installed)" : "ℹ Prvek pro nástěnku vykreslující text formátovaný markdown značkami, vítající všechny uživatele.\n\n⚙ Nastavte přes `Nastavení > Zpráva > Opatřování motivem vzhledu > Uvítací prvek`\n\n📄 Vyberte dokument v markdown, který v prvku vykreslovat\n\n💡 Pokud není zvolen žádný dokument, prvek se nezobrazí\n\n📝 Úpravou markdown dokumentu bude v reálném čase upraven i obsah prvku\n\n🖼 Je možné použít i obrázky\n\n💬 Nastavte kontaktní osobu se kterou zahájit přímý chat (vyžaduje nainstalovaný [Nextcloud Talk](https://apps.nextcloud.com/apps/spreed))",
-    "Welcome widget" : "Prvek Uvítání",
-    "The dashboard welcome widget will be displayed for all users only if you choose a markdown file." : "Prvek Uvítání na nástěnku bude zobrazován všem uživatelů pouze tehdy, když zvolíte soubor, obsahující markdown.",
+    "Welcome2" : "Vítejte",
+    "Dashboard widget to display welcome2 content" : "Ovládací prvek na nástěnku pro zobrazování uvítacího obsahu",
+    "ℹ A Markdown rendering Dashboard widget to welcome2 all users.\n\n⚙ Configure via `Settings > Administration > Theming > Welcome2 widget`\n\n📄 Pick a Markdown document to be rendered in the widget\n\n💡 If no document is chosen, the widget won't be shown\n\n📝 Edit the Markdown document to update the widget in real-time\n\n🖼 Images are also supported\n\n💬 Configure a contact person to directly start a chat with (requires [Nextcloud Talk](https://apps.nextcloud.com/apps/spreed) to be installed)" : "ℹ Prvek pro nástěnku vykreslující text formátovaný markdown značkami, vítající všechny uživatele.\n\n⚙ Nastavte přes `Nastavení > Zpráva > Opatřování motivem vzhledu > Uvítací prvek`\n\n📄 Vyberte dokument v markdown, který v prvku vykreslovat\n\n💡 Pokud není zvolen žádný dokument, prvek se nezobrazí\n\n📝 Úpravou markdown dokumentu bude v reálném čase upraven i obsah prvku\n\n🖼 Je možné použít i obrázky\n\n💬 Nastavte kontaktní osobu se kterou zahájit přímý chat (vyžaduje nainstalovaný [Nextcloud Talk](https://apps.nextcloud.com/apps/spreed))",
+    "Welcome2 widget" : "Prvek Uvítání",
+    "The dashboard welcome2 widget will be displayed for all users only if you choose a markdown file." : "Prvek Uvítání na nástěnku bude zobrazován všem uživatelů pouze tehdy, když zvolíte soubor, obsahující markdown.",
     "Markdown content file" : "Soubor s obsahem v markdown",
     "No file" : "Žádný soubor",
     "Widget title" : "Nadpis prvku",

@@ -1,8 +1,14 @@
 OC.L10N.register(
-    "welcome",
+    "welcome2",
     {
+<<<<<<< HEAD
     "Welcome" : "Välkommen",
     "No file" : "Ingen fil",
+=======
+    "Welcome2" : "Välkommen",
+    "No recommendations. Start typing." : "Inga rekommendationer. Börja skriva.",
+    "No result." : "Inga resultat.",
+>>>>>>> v1.0.8-2
     "Support text" : "Supporttext",
     "Choose" : "Välj",
     "No welcome content" : "Inget välkomstinnehåll ",
